@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AG-Sense-BLE</string>
+    <string name="turnOn">Turn on bluetooth</string>
+    <string name="scan">Scan</string>
+    <string name="device_name">Device Name</string>
+    <string name="status">Status</string>
+    <string name="show_if_enabled">Show if enabled</string>
+</resources>

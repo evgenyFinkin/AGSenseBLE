@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/turnOnOff" android:icon="@drawable/ic_bluetooth_black_24dp"
+          android:title="@string/turnOn" app:showAsAction="withText" android:onClick="turnOnOff"
+          android:checkable="false" android:enabled="true"/>
+    <item android:id="@+id/scan" android:icon="@drawable/ic_bluetooth_searching_black_24dp"
+          android:title="@string/scan" app:showAsAction="withText" android:onClick="scan"
+          android:checkable="false" android:enabled="true"/>
+
+</menu>
